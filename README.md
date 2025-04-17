@@ -33,5 +33,7 @@ Load Library from File : Loads your library from the text file when the program 
 For questions or feedback, feel free to reach out:
 
 Email: asadhussainshad@gmail.com
+
 GitHub: huzaifa-1100
-linkedin: https://www.linkedin.com/in/huzaifa-ayub-b29132288/
+
+inkedin: https://www.linkedin.com/in/huzaifa-ayub-b29132288/
